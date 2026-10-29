@@ -1,0 +1,36 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.slxc
+*.mat~
+slprj/
+SFprj/
+
+# Generated logs from test sessions (keep sample_maps intact)
+Nav_Session_*.mat
+ICP_Precision_Log_*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Temporary and local editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
